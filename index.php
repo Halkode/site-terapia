@@ -200,7 +200,7 @@
   </div>
   <div>
     <main class="main">
-      <p class="main__subtitle">@TODOS OS DIREITOS RESERVADOS</p>
+      <p class="main__subtitle">feito por <a href="https://github.com/Halkode" target="_blank">Rafael</a> @TODOS OS DIREITOS RESERVADOS</p>
       <div class="main__social">
 
         <a href="https://facebook.com/rafael.pereirapires" class="main__link" target="_blank" rel="noopener">
